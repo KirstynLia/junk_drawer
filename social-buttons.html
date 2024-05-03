@@ -32,7 +32,7 @@
     }
 
     .social {
-      background-color: #272727;
+      background-color: #eee;
       width: 55px;
       height: 55px;
       border-radius: 50%;
@@ -85,8 +85,8 @@
       background-color: #c8232c;
     }
 
-    .telegram:hover {
-      background-color: #2AABEE;
+    .whatsapp:hover {
+      background-color: #25D366;
     }
 
     .social {
@@ -171,9 +171,9 @@
       </div>
       <!-- End pinterest Icon -->
 
-      <!-- Start telegram Icon -->
-      <div id="telegram" onclick="navigate(this.id)" class="social telegram">
-        <span class="icon telegram"><i class="fab fa-telegram"></i></span>
+      <!-- Start whatsapp Icon -->
+      <div id="whatsapp" onclick="navigate(this.id)" class="social whatsapp">
+        <span class="icon whatsapp"><i class="fab fa-whatsapp"></i></span>
       </div>
       <!-- End telegram Icon -->
 
@@ -218,7 +218,7 @@
         else if (id === "pinterest") {
           window.open("https://www.pinterest.com/", '_blank').focus(); //Add the url to your pinterest account
         }
-        else if (id === "telegram") {
+        else if (id === "whatsapp") {
           window.open("https://wa.me/12408177028", '_blank').focus(); //Add the url to your telegram account
         }
       }
