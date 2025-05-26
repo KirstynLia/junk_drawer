@@ -1,0 +1,269 @@
+// And or Ampersands (&) // 
+* The written version of the word “and” is generally preferred to “&”, for accessibility purposes.
+* “&” can be used when there are tight character limits, in a heading for instance. It’s also acceptable when referencing brand names, or for saving character space in buttons and CTAs. 
+
+We don’t use “+” instead of “&”.
+
+// Bullet points //
+* Use bullet points (•) to break up heavy text for improved readability on screens. 
+* Place line breaks before and after the list, but not between list items. 
+* Avoid full stops on the end of bullet points, unless it’s the end of one sentence leading on to the next. 
+
+We would say: 
+• Sell items faster
+• Try Wardrobe Spotlight now. Click to find out more
+
+We wouldn’t say: 
+• Sell items faster.
+• Try Wardrobe Spotlight now. Click to find out more.
+
+// Capitalisation //
+* We capitalise proper nouns and branded feature names (e.g. Bumps, Item Verification Service, only when written in their noun forms.) 
+* Verbs forms of the feature names are not capitalised (e.g. “bump this item,” “verify this item.”)
+
+Seasons: 
+• Use lower case, e.g. spring 
+
+Currency names: 
+• Use lower case, e.g. euro
+
+Category names: 
+• Capitalise the main word in category names but not the other words, e.g. Men’s category, Pet care category, Kids’ category. 
+• Use lower case when referring to the items themselves within a category, e.g. men’s items, pet care items.
+
+Use sentence case, avoid title case:
+• We would say: Browse designer items now
+• We wouldn't say: Browse Designer Items Now
+
+// Colons (:) //
+• Use between numbers when writing the time.
+• Follow with a capital letter if there’s a complete sentence after the colon. No capital letter after a colon if it’s followed by a sentence fragment. 
+
+Examples: 
+• We would say: New: Find designer items on Vinted
+• We wouldn't say: New: find designer items on Vinted
+
+
+Commas (,)
+
+For UI copy, only use commas that are grammatically needed – do not add commas that try to mimic the pattern of human speech, e.g. 
+
+Oxford commas: 
+We use the Oxford comma. Include a comma before “and”/ “or” in lists of 3+ things. 
+
+We would say: Our new categories are Entertainment, Pet care, and Home.
+
+We wouldn’t say: Our new categories are Entertainment, Pet care and Home.
+
+
+Contractions (‘)
+
+Use these consistently to keep copy sounding conversational in tone. 
+This is particularly important for modal copy where space is limited for key information, e.g. “We’re closing this platform on March 15”.
+
+We would say: Don’t
+
+We wouldn't say: Do not
+
+Currency
+We write the currency symbol first in UK English, with no space between the symbol and the number.  
+
+When spelled out in full, do not capitalise currency names, e.g. dollar, pound or euro
+
+Currency short-form acronyms e.g. USD, GBP, or EUR should be capitalised.
+These acronyms are less commonly used over the symbol or full-written word, but may appear in legal docs or when there are character or formatting limitations. 
+
+
+
+We would say:  First, make sure you don’t exceed the tax threshold of €7,499.99.
+
+We wouldn’t say: 1st, make sure you don’t exceed the tax threshold of 7.499,99 €*.
+
+*Please note that decimalisation and currency symbol rules are different for some regions, and the usual localisation rules outlined in the Glossary should be followed. 
+
+Dates
+Long-form date (where character count allows)
+Written as numeric day first, with month after: e.g. 13 April
+
+Short form date format (when character count is limited)
+Written as numeric day/month, separated by a forward-slash: e.g. 13/04 
+
+We order dates by day, month, then year: e.g. 13/04/2024 
+
+Typically we don’t include year unless required legally or for clarity (e.g. a campaign that runs December to January) 
+
+Date ranges
+Long form: 13–20 April 
+Use a dash not a hyphen to separate 
+No spaces when mentioning dates in the same month: 13–20 April 
+Spell out the dates when mentioning a time period between different months: 13 April to 13 May 
+
+Short form: 13/04–20/04
+Use only numbers
+Use a dash not a hyphen
+Separate dates with a forward-slash 
+No spaces between characters
+
+Decades: 60s, 70s, 80s 
+Avoid apostrophes
+No century, e.g. 60s not 1960s
+
+Avoid using ordinal numbers for dates. 
+
+We state specifically when a date or date range is inclusive of the start/end dates by putting the word (inclusive) in brackets.
+
+We would say:  Send it by December 2 (inclusive).
+
+We wouldn’t say: Send it by 2nd December (inclusive).
+
+
+Ellipses (...)
+
+Generally best avoided in UX. (Use colons or full stops to create pauses in copy instead.)
+
+We don’t use ellipses at the end of sentences, as this makes UI copy sound unsure or unclear of its meaning. 
+
+We would say: Introducing: The new Bumps feature
+
+We wouldn't say: Introducing… The new Bumps feature
+
+Emphasis (bold, demi-bold, italics, etc) 
+Italics: 
+Avoid, even for emphasis on specific words or quotes.    
+
+Bold or demi-bold: 
+Can be used to draw attention to key information in body text. Use the appropriate text style from the design system to emphasise headings.
+
+Use bold in UI copy to refer to user pathways (like menu titles or button text) elsewhere in the product, e.g. "Select Settings > Profile details to change your profile description.” 
+
+Can be at the start of a bullet point to break up text or sparingly where emphasis on standout information is needed on text-heavy screens.
+
+Punctuation marks following bold text should not be bold, unless every preceding word in the sentence is bold. If only the second half of the sentence is bold, drop the bold full-stops and quotation marks.
+
+We would say: Select Settings > Profile details to change your profile picture or description.
+
+We wouldn’t say: Go to “Settings” and click on “Profile details” to change your profile picture or description.
+
+Exclamation marks (!)
+
+Avoid using these in UI copywriting, except when absolutely necessary to convey the right positive tone, e.g. a success message. 
+
+Never use more than one exclamation mark per screen to avoid sounding overly-excited or juvenile in tone.
+
+We would say: Success! You sold an item.
+
+We wouldn't say: Success. You sold an item. 
+OR: Success!! You sold an item!!
+
+
+Full stops (.)
+
+Use full stops over colons, semi-colons, and hyphens, to avoid overly-long sentences in UI copy.
+
+Avoid full stops on the end of bullet points, unless it’s the end of one sentence leading on to the next. 
+
+Avoid using full stops on headers, push notifications and subject lines.
+
+We would say: Upload your tax ID now to keep using Vinted
+
+We wouldn't say: Upload your tax ID now to keep using Vinted.
+
+
+Headings
+Headings should summarise the main point of the screen.
+
+In a step-by-step process or flow with multiple-screens, headings can be used to refer to the previous CTA or step that led to that screen.
+
+Hyphens & dashes (– / -)
+
+Hyphens:
+Use these to connect compound words only, e.g. up-to-date, but not to break up UI copy.
+
+Line breaks: Avoid using hyphens to break up one word over two lines.
+ 
+Hyphens in compound adjectives (a.k.a. phrasal adjectives)
+Use hyphens on the words that make up the compound adjective if it comes before the noun, but not if the compound phrase is being used as an adverb and comes after the noun.
+
+Adverbs that end in -ly as part of compound adjectives shouldn’t be hyphenated. 
+
+We would say: Get up–to–date information. The link should be clearly visible below.
+
+We wouldn’t say: Stay up–to–date. The link should be clearly-visible below.
+ 
+
+En dashes: 
+Used for communicating dates or time ranges without spaces. 
+
+Em dashes:
+Can be used for parentheses or punctuation around copy with space either side.
+
+We would say: Try Bumps – sell your items faster
+
+We wouldn’t say: Try Bumps-sell your items faster
+
+
+Numbers & currency 
+Single, double or triple digit numbers:
+Always write numbers in text as numerals, e.g. 7, 17, 177. 
+The exception is at the start of sentences when the number should be spelled in full.
+
+Larger numbers:
+Use a comma to mark bundles of thousands, tens of thousands and hundreds of thousands, e.g. 1,000, 100,000, 1,000,000.
+
+Decimals:
+Use full stops for decimal numbers and currency subunits, such as pennies, cents, and fractions, e.g. €5.00 or 0.95%
+
+Measurement Formatting:
+When indicating measurements of length or distance (e.g., centimeters, meters), do not insert a space between the numerical value and the unit of measurement.
+We would say: The width is 5cm
+
+We wouldn’t say: Screen size is 20 cm. 
+
+Ordinal numbers: 
+Write ordinal numbers as a full word at the start of a sentence, e.g. “second”, and as a numeral everywhere else, e.g. “2nd”. Only use “1st” if there’s also a “2nd,” otherwise spell out “first” in full. 
+
+When writing numerals, avoid writing “th” in superscript. 
+
+Don’t use ordinal numbers for dates. 
+
+Speech marks & quotations (“,’)
+
+When depicting speech: 
+Use double quotation marks, e.g. “I love Vinted.” 
+
+Use double quotation marks to refer to UI copy elsewhere in the product wherever using bold isn’t possible. 
+
+Single quotation marks: 
+Avoid using these.
+
+We would say: The money will move to your Balance after the buyer selects “Everything is OK”.
+
+We wouldn’t say: The money will move to your Balance after the Buyer hits ‘Everything is OK’.
+
+Note: make sure the copy matches the CTA button text exactly when quoting.  
+
+Symbols and asterisks
+
+Asterisks (*): 
+Used only for legal disclaimers or terms.
+Positioned usually below the content element or at the bottom of the page, and can be smaller text. 
+
+Percentages (%): 
+Always write in numerals. 
+Percentages should be written as a number, e.g. “33%” instead of “1/3rd”.
+No space between numbers and % symbol.
+
+Time
+
+Use 24 hour time as a standard when giving instructions (e.g. drop-off location opening hours)
+
+Avoid using am and pm in UI copy.
+
+Time ranges: 
+Use a colon before giving the range
+Use a colon to separate hours and minutes
+Use a dash and no spaces in between ranges, e.g. 10:30–14:30
+
+We would say: Opening hours: 10:00-17:00
+
+We wouldn’t say: Opening hours: 10am-5pm
